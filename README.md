@@ -1,2 +1,2 @@
-# SoftColorSegmentation
-Final project Computer Vision 
+# Soft Color Segmentation
+
