@@ -2,8 +2,15 @@
 
 This repository was developed as a final project for Computer Vision Master's Degree. 
 
+### Prerequisits
+* Python 3.9
+* OpenCV
+* Numpy
+* scipy
+
 ### Get Started 
-``` git clone https://github.com/lindaAcc/SoftColorSegmentation.git 
+``` 
+git clone https://github.com/lindaAcc/SoftColorSegmentation.git 
 cd src
 Open run.ipynb on GoogleColab or JupyterNotebook and run cells from top to bottom. 
 ```
