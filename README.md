@@ -26,7 +26,7 @@ Open run.ipynb on GoogleColab or JupyterNotebook and run cells from top to botto
 
 
 ### Run example: 
-[run.ipynb](src/run.ipynb) shows a test decomposition of an image test
+[run.ipynb](src/run.ipynb) shows a test decomposition of an image test, results are generated on src/results/sample/**directrories classified by image name** 
 
 you can can change image name and platte values on the third cell 
 
